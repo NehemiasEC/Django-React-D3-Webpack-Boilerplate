@@ -1,0 +1,25 @@
+{
+  "name": "frontend",
+  "version": "1.0.0",
+  "description": "Django React D3 and Webpack Boilerplate ",
+  "main": "index.js",
+  "scripts": {
+  },
+  "keywords": [
+    "Django",
+    "React",
+    "D3",
+    "Webpack",
+    "Boilerplate"
+  ],
+  "author": "NehemiasEC",
+  "license": "MIT",
+  "devDependencies": {
+    "webpack": "^4.8.3",
+    "webpack-bundle-tracker": "^0.3.0"
+  },
+  "dependencies": {
+    "d3": "^5.4.0",
+    "react": "^16.3.2"
+  }
+}
